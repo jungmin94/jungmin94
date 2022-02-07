@@ -1,13 +1,13 @@
 ### Hi there 👋
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjungmin94%2Fpark-jungmin&count_bg=%233148DA&title_bg=%2381B1EA&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 # park-jungmin  😉
 안녕하세요! <br>
 현재 구디아카데미에서 국비지원 교육과정인 "자바기반 스마트웹 & 콘텐츠 개발자 양성과정"에 수료 중입니다<br>
 (교육기간 2021. 09. 08 ~ 2022. 02. 24일)<br>
 완성된 프로젝트 : <a href="https://github.com/jungmin94/semiproject">semi프로젝트</a>(Eclipse기반 헬스커뮤니티사이트 / 담당업무 : 사이트 내 중고거래사이트)<br>
 진행중인 프로젝트 : final프로젝트(Spring기반 MBTI커뮤니티사이트 / 담당업무 : 사이트 내 게시판구현)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjungmin94%2Fpark-jungmin&count_bg=%233148DA&title_bg=%2381B1EA&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ 
 
 # Skills
 ### 💪Platforms & Languages
